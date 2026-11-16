@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi👋, I'm Sowmya G<br><br>🌱 I’m currently learning Cyber Security<br><br>🔭 I’m currently working as student<br><br>🖥 All of my projects are available on GitHub<br><br>📄Check out my resume here-<br><br>💬 Ask me about Apps, Cyber security
+Hi👋, I'm Sowmya G<br><br>🌱 I’m currently learning Cyber Security<br><br>🔭 I’m currently working as student<br><br>🖥 All of my projects are available on GitHub<br><br>📄Check out my resume here-<br><br>💬 Ask me about Apps, Cyber security,Artificial intelligence,bachhand.
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_sowmya_gowda_25) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sowmya-g-65447338a) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sowmyagopalgowda25@gmail.com) 
 
